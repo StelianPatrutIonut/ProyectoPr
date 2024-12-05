@@ -1,4 +1,3 @@
-En la carpeta te vas a encontrar los dos trabajos.
 Antes de jugar una partida tienes que insertar los jugadores, y despues ir a jugar la partida
 En el caso de que ya hemos jugado una partida y ya tenemos jugadores agregados en el ranking
 para poder jugar con el de nuevo tenemos que ir otra vez a añadir jugadores y le damos a insertar 
